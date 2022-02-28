@@ -5,25 +5,25 @@
 - 📫 How to reach me ...
 
 
-💬Name : SU HEON KIM
+💬 Name : SU HEON KIM
 
-💬Birth : 1998.05.28
+💬 Birth : 1998.05.28
 
-💬Job : Student
+💬 Job : Student
 
-💬Education : Undergraduate Student in School of Software, Kwangwoon University
+💬 Education : Undergraduate Student in School of Software, Kwangwoon University
 
-💬Age : 25
+💬 Age : 25
 
-💬Teck Stack :      
+💬 Teck Stack :      
 
-💬Studying :   ts
+💬 Studying :   ts
 
-💬Interests : Backend Cloud
+💬 Interests : Backend Cloud
 
-💬Email : npole0103@naver.com
+💬 Email : npole0103@naver.com
 
-💬Website : Instagram Solved.ac
+💬 Website : Instagram Solved.ac
 
 <!---
 seungjun222/seungjun222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
