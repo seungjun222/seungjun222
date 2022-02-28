@@ -1,31 +1,17 @@
-- 👋 안녕, I’m @seungjun222
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+💬 Name : SEUNG JUN EO
 
-
-💬 Name : SU HEON KIM
-
-💬 Birth : 1998.05.28
+💬 Birth : 1998.02.17
 
 💬 Job : Student
 
-💬 Education : Undergraduate Student in School of Software, Kwangwoon University
+💬 Education : Undergraduate Student in School of Information Convergence, Kwangwoon University
 
 💬 Age : 25
 
-💬 Teck Stack :      
+💬 Teck Stack :   
 
-💬 Studying :   ts
+💬 Studying : React.js, Django
 
-💬 Interests : Backend Cloud
+💬 Interests : Fronten
 
-💬 Email : npole0103@naver.com
-
-💬 Website : Instagram Solved.ac
-
-<!---
-seungjun222/seungjun222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💬 Email : eoseungjun7@naver.com
