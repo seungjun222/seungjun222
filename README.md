@@ -12,6 +12,6 @@
 
 💬 Studying : React.js, Django
 
-💬 Interests : Fronten
+💬 Interests : Frontend
 
 💬 Email : eoseungjun7@naver.com
