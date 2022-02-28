@@ -8,7 +8,7 @@
 
 💬 Age : 25
 
-💬 Teck Stack :   
+💬 Teck Stack :   ![js](https://user-images.githubusercontent.com/39702832/155941932-6cbb3158-5822-40db-8b30-1dd44afa8dbd.svg)
 
 💬 Studying : React.js, Django
 
