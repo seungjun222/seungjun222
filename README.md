@@ -4,7 +4,7 @@
 
 💬 Age : 25
 
-💬 Teck Stack : HTML, CSS, Javascript, Python, Django
+💬 Teck Stack : HTML, CSS, Javascript, Python, Django, React.js
 
 💬 Studying : React.js, Node.js, Typescript
 
