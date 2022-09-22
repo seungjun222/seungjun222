@@ -10,4 +10,4 @@
 
 💬 Email : eoseungjun7@naver.com
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungjun222&langs_count=10&layout=compact&theme=dark)](https://github.com/seungjun222/seungjun222)﻿
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungjun222&langs_count=10&layout=compact&theme=white)](https://github.com/seungjun222/seungjun222)﻿
