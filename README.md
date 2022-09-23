@@ -2,9 +2,9 @@
 
 💬 Birth : 1998.02.17
 
-💬 Teck Stack : HTML, CSS, Javascript, Python, Django, React.js
+💬 Teck Stack : HTML, CSS, Javascript, Python, Django, React
 
-💬 Studying : React.js, Node.js, Typescript
+💬 Studying : React, Node.js, Typescript
 
 💬 Interests : Frontend
 
