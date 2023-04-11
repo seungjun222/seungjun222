@@ -4,7 +4,7 @@
 
 💬 Teck Stack : HTML, CSS, Javascript, Python, Django, React
 
-💬 Studying : React, Node.js, Typescript
+💬 Studying : React, Typescript
 
 💬 Interests : Frontend
 
