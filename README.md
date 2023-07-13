@@ -1,10 +1,8 @@
 💬 Name : SEUNG JUN EO
 
-💬 Birth : 1998.02.17
+💬 Teck Stack : HTML/CSS, Javascript, React, Redux, SWR, Styled-Components, Emotion, Python, Django
 
-💬 Teck Stack : HTML/CSS, Javascript, React, Redux, SWR, Python, Django
-
-💬 Studying : React, Typescript, Next.js
+💬 Studying : Typescript, Next.js
 
 💬 Interests : Frontend
 
