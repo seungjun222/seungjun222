@@ -1,6 +1,6 @@
 💬 Name : SEUNG JUN EO
 
-💬 Teck Stack : HTML/CSS, Javascript, React, Redux, SWR, Styled-Components, Emotion, Python, Django
+💬 Teck Stack : HTML/CSS, Javascript, React, Recoil, React-Query, SWR, Firebase, Styled-Components, Emotion, Python, Django, Figma
 
 💬 Studying : Typescript, Next.js
 
